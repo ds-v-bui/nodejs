@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ds-v-bui/nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "v-bui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ds-v-bui/nodejs/issues"
+  },
+  "homepage": "https://github.com/ds-v-bui/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
